@@ -1,4 +1,9 @@
 # Release a new version
+
+> **Deprecated.** This project is no longer maintained and should not receive new releases. Releases now
+> happen in [yanovian/delete-old-actions](https://github.com/yanovian/delete-old-actions). The steps below
+> are kept for historical reference only.
+
 Check the current version:
 ```bash
 git tag --list --sort=-v:refname | head -n 1

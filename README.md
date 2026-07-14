@@ -5,6 +5,12 @@
 [![Contributors](https://img.shields.io/github/contributors/yanovation/delete-old-actions?color=blue&style=flat-square)](https://github.com/yanovation/delete-old-actions/graphs/contributors)
 </div>
 
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.** Please switch to its successor,
+> [yanovian/delete-old-actions](https://github.com/yanovian/delete-old-actions), also available on the
+> [GitHub Marketplace](https://github.com/marketplace/actions/prune-old-github-actions-runs).
+> See that repository for up-to-date usage instructions and how to migrate/update your workflows.
+
 # About
 
 Removes old GitHub Actions runs to keep your repository clean.

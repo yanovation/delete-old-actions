@@ -1,5 +1,9 @@
 # Contributing
 
+> **Deprecated.** This project is no longer maintained and is not accepting contributions. Please
+> contribute to its successor instead:
+> [yanovian/delete-old-actions](https://github.com/yanovian/delete-old-actions).
+
 ## Submitting a pull request
 
 * Fork and clone the repository

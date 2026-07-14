@@ -1,5 +1,8 @@
 # Changelog
 
+> **Deprecated.** This project is no longer maintained. Use
+> [yanovian/delete-old-actions](https://github.com/yanovian/delete-old-actions) instead.
+
 ## v1
 - Major version that maps to the latest V1.x.x release
 - This is the version that you should use.
