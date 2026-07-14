@@ -57,6 +57,13 @@ export async function deleteWorkflowRuns(
 }
 
 export async function run(): Promise<void> {
+  core.warning(
+    'yanovation/delete-old-actions is deprecated and no longer maintained. ' +
+    'Switch to its successor, yanovian/delete-old-actions: replace ' +
+    '`uses: yanovation/delete-old-actions@v1` with `uses: yanovian/delete-old-actions@v1` in your workflow. ' +
+    'See https://github.com/yanovian/delete-old-actions for details.'
+  );
+
   try {
     const token: string = core.getInput('token', { required: true });
     const daysAgo: number = parseInt(core.getInput('days-ago', { required: true }));
